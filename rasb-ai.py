@@ -6,7 +6,7 @@ import time
 from gtts import gTTS
 from mutagen.mp3 import MP3
 import vlc
-
+import Adaftuit_blinka
 # запись запитання
 Frequency = 44100
 seconds = 5
