@@ -4,6 +4,6 @@ sounddevice
 time
 gTTS
 mutagen
-vlc
+python-vlc
 gpiozero 
 Scripy
